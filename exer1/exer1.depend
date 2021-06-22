@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624404324 source:/home/jefferson/linguagem c/exer1/main.c
+	<stdlib.h>
+	<stdio.h>
+
